@@ -19,7 +19,7 @@ and communicating impactfully with data storytelling.
 Improving my skills in data wrangling, Mathematics, statistical analysis and Python.
 
 ## 💡Projects & Learnings💡
-Click here for my projects.
+Click here for my [projects](https://github.com/frantzalexander/DataSciencePortfolio).
 
 ## 😎Fun Facts😎
 I have a passion for designing presentations using Power Point.
