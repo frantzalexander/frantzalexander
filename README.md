@@ -1,22 +1,24 @@
 ### Hi there 👋
-I am Frantz Alexander
+I am Frantz Alexander.
 
-Finance University Graduate with a passion for Data Science.
+A Finance University Graduate with a passion for Data Science.
 
 
 ## 🔥Core Competencies🔥
 
 Tools: Excel, Power Bi, Python, SQL
 
-Data Science Techniques: Data Cleansing, Data Visualization, Data Analysis and Dashboard Design and Development
+Data Science Techniques: Data Cleansing, Data Visualization, Data Analysis, Dashboard Design and Development and predictive analysis 
+
+with machine learning. 
 
 Unique Skill: Employs inquisitive questioning that create insights to drive data centered decision-making 
 
 
-and communicating impactfully with data storytelling.
+while communicating impactfully with data storytelling and vivid visualizations.
 
 ## ⚡I'm currently working on:⚡
-Improving my skills in data wrangling, Mathematics, statistical analysis and Python.
+Improving my skills in Machine Learning, statistical analysis and Python programming.
 
 ## 💡Projects & Learnings💡
 Click here for my [projects](https://github.com/frantzalexander/DataSciencePortfolio).
