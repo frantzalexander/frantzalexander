@@ -17,7 +17,7 @@ Unique Skill: Employs inquisitive questioning that create insights to drive data
 
 while communicating impactfully with data storytelling and vivid visualizations.
 
-## ⚡I'm currently working on:⚡
+## ⚡I'm currently working on⚡
 Improving my skills in Machine Learning, statistical analysis and Python programming.
 
 ## 💡Projects & Learnings💡
