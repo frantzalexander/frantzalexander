@@ -25,7 +25,7 @@ Click here for my [projects](https://github.com/frantzalexander/DataSciencePortf
 I have a passion for designing presentations using Power Point.
 
 ## 👇🏾Connect with me👇🏾
-[Website](https://frantzalexander.notion.site/Resume-Portfolio-7e20cf1ea62a484c8b8da2b12832e1bf)
+[Resume and Portfolio Website](https://frantzalexander.notion.site/Resume-Portfolio-7e20cf1ea62a484c8b8da2b12832e1bf)
 
 
 [Linkedin](https://www.linkedin.com/in/frantz-alexander)
