@@ -8,9 +8,7 @@ A Finance University Graduate with a passion for Data Science.
 
 Tools: Excel, Power Bi, Python, SQL
 
-Data Science Techniques: Data Cleansing, Data Visualization, Data Analysis, Dashboard Design and Development and Predictive Analysis 
-
-with Machine Learning. 
+Data Science Techniques: Data Cleansing, Data Visualization, Data Analysis, Dashboard Design and Development and Predictive Analysis with Machine Learning. 
 
 Unique Skill: Employs inquisitive questioning that create insights to drive data centered decision-making 
 
