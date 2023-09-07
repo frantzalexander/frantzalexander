@@ -19,10 +19,10 @@ while communicating impactfully with data storytelling and vivid visualizations.
 Improving my skills in Machine Learning, statistical analysis and Python programming.
 
 ## 💡Projects & Learnings💡
-Click here for my [projects](https://github.com/frantzalexander/DataSciencePortfolio).
+Click here for my [project portfolio](https://github.com/frantzalexander/DataSciencePortfolio).
 
 ## 😎Fun Facts😎
-I have a passion for designing presentations using Power Point.
+I have a passion for designing presentations using PowerPoint.
 
 ## 👇🏾Connect with me👇🏾
 [Resume and Portfolio Website](https://frantzalexander.notion.site/Resume-Portfolio-7e20cf1ea62a484c8b8da2b12832e1bf)
