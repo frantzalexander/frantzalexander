@@ -25,9 +25,10 @@ Click here for my [project portfolio](https://github.com/frantzalexander/DataSci
 I have a passion for designing presentations using PowerPoint.
 
 ## 👇🏾Connect with me👇🏾
-[Personal Portfolio Website](https://frantzalexander.notion.site/Resume-Portfolio-7e20cf1ea62a484c8b8da2b12832e1bf)
+Resume & Portfolio Website: [Link](https://frantzalexander.notion.site/Resume-Portfolio-7e20cf1ea62a484c8b8da2b12832e1bf)
 
 Email: mr.frantz.alexander@gmail.com
+
 
 <!--
 **frantzalexander/frantzalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
